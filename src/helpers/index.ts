@@ -1,0 +1,2 @@
+export { customStyles } from "./customStyles";
+
